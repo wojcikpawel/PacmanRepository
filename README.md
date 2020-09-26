@@ -17,6 +17,9 @@ Project is created with:
 | React.js                                          | <i>?</i>    |
 
 
+<p align="center"><img src="https://github.com/wojcikpawel/PacmanRepository/blob/master/Images/nodejs.jpg" width="250px" /></p>
+
+<p align="center"><img src="https://github.com/wojcikpawel/PacmanRepository/blob/master/Images/reactjs.jpg" width="250px" /></p>
 
 
 ## Inspiration🔱
