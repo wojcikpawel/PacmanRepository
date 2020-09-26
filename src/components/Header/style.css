@@ -1,0 +1,8 @@
+.header {
+    height: 50px; /* wykorzystanie do kalkulacji*/
+    background-color: #000;
+    color: #fff;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
