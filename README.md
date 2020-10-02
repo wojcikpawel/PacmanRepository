@@ -6,7 +6,7 @@
 * [Inspiration](#inspiration)
 
 ## General Info🎉
-Popular simple packman game as a web application.
+Popular simple pacman game as a web application.
 
 ## Technologies🔧
 Project is created with:
