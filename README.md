@@ -23,4 +23,4 @@ Project is created with:
 
 
 ## Inspiration🔱
-The game was build during computer laboratory within the project www.SzkolaReacta.pl under the leadership Patryk Omiotek.
+The project was build during computer laboratory within the project www.SzkolaReacta.pl under the leadership Patryk Omiotek.
