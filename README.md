@@ -24,4 +24,5 @@ Project is created with:
 
 ## Inspiration🔱
 The project was build during computer laboratory within the project www.SzkolaReacta.pl under the leadership Patryk Omiotek: 
+
 26.09.2020 10:00 - 14:00
