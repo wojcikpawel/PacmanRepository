@@ -14,7 +14,7 @@ Project is created with:
 | Tech                                                    | Version                                  |
 | ------------------------------------------------------- | ---------------------------------------- |
 | Node.js                                                  | <i>10.13.0/12.8.4</i>   |
-| React.js                                          | <i>16.13.1-19.03.2020</i>   <i>17.0.1 - 22.10.2020     |
+| React.js                                          | <i>16.13.1 - 19.03.2020</i>   <i>17.0.1 - 22.10.2020     |
 
 
 <p align="center"><img src="https://github.com/wojcikpawel/PacmanRepository/blob/master/Images/nodejs.jpg" width="250px" /></p>
