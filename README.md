@@ -6,7 +6,7 @@
 * [Inspiration](#inspiration)
 
 ## General Info🎉
-Popular simple packman game as a web application.
+Popular simple pacman game as a web application.
 
 ## Technologies🔧
 Project is created with:
@@ -14,7 +14,7 @@ Project is created with:
 | Tech                                                    | Version                                  |
 | ------------------------------------------------------- | ---------------------------------------- |
 | Node.js                                                  | <i>10.13.0/12.8.4</i>   |
-| React.js                                          | <i>?</i>    |
+| React.js                                          | <i>16.13.1 - 19.03.2020</i>   <i>17.0.1 - 22.10.2020     |
 
 
 <p align="center"><img src="https://github.com/wojcikpawel/PacmanRepository/blob/master/Images/nodejs.jpg" width="250px" /></p>
@@ -23,11 +23,6 @@ Project is created with:
 
 
 ## Inspiration🔱
-The game was written during a workshop within the project www.SzkolaReacta.pl under the leadership Patryk Omiotek.
+The project was build during computer laboratory within the project www.SzkolaReacta.pl under the leadership Patryk Omiotek: 
 
-
-
-- https://keycode.info/
-- https://reactjs.org/docs/refs-and-the-dom.html
-- https://www.umieclepiej.pl/courses/instructors/patryk-omiotek/
-- Szkolenie React App - https://www.umieclepiej.pl/courses/student/courses/f016d536-c6ff-4ce2-80f0-7865b5aa207d/lessons/a1e757e4-a965-4bae-81ab-301bad9255f2
+26.09.2020 10:00 - 14:00
