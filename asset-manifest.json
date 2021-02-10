@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PacmanRepository.github.io/static/css/main.c9240eba.chunk.css",
+    "main.js": "/PacmanRepository.github.io/static/js/main.94db4ef6.chunk.js",
+    "main.js.map": "/PacmanRepository.github.io/static/js/main.94db4ef6.chunk.js.map",
+    "runtime-main.js": "/PacmanRepository.github.io/static/js/runtime-main.5d988054.js",
+    "runtime-main.js.map": "/PacmanRepository.github.io/static/js/runtime-main.5d988054.js.map",
+    "static/js/2.cb3068d3.chunk.js": "/PacmanRepository.github.io/static/js/2.cb3068d3.chunk.js",
+    "static/js/2.cb3068d3.chunk.js.map": "/PacmanRepository.github.io/static/js/2.cb3068d3.chunk.js.map",
+    "index.html": "/PacmanRepository.github.io/index.html",
+    "precache-manifest.15f9f0672391fc0213166f509ee38eb6.js": "/PacmanRepository.github.io/precache-manifest.15f9f0672391fc0213166f509ee38eb6.js",
+    "service-worker.js": "/PacmanRepository.github.io/service-worker.js",
+    "static/css/main.c9240eba.chunk.css.map": "/PacmanRepository.github.io/static/css/main.c9240eba.chunk.css.map",
+    "static/js/2.cb3068d3.chunk.js.LICENSE.txt": "/PacmanRepository.github.io/static/js/2.cb3068d3.chunk.js.LICENSE.txt",
+    "static/media/pacman.03edcd8c.svg": "/PacmanRepository.github.io/static/media/pacman.03edcd8c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d988054.js",
+    "static/js/2.cb3068d3.chunk.js",
+    "static/css/main.c9240eba.chunk.css",
+    "static/js/main.94db4ef6.chunk.js"
+  ]
+}
